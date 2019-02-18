@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="weather-clouds-nights.svg">
+  <title
+     id="title7895">Antu icon Theme</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="32"
+     inkscape:cx="14.730796"
+     inkscape:cy="15.978917"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1874"
+     inkscape:window-height="1141"
+     inkscape:window-x="46"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:showpageshadow="false"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-midpoints="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7897"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Antu icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-282.64999)">
+    <path
+       style="fill:#2d4266;fill-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 3,283.64999 25.999999,0 C 30.108,283.64999 31,284.542 31,285.65 l 0,25.99998 c 0,1.108 -0.892,2.00001 -2.000001,2.00001 L 3,313.64999 c -1.108,0 -2,-0.89201 -2,-2.00001 L 1,285.65 c 0,-1.108 0.892,-2.00001 2,-2.00001 z"
+       id="path27-5" />
+    <path
+       style="fill:#0d6198;fill-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 3,284.65 25.999999,0 C 29.554,284.65 30,285.09598 30,285.64998 l 0,26.00001 c 0,0.55397 -0.446,0.99999 -1.000001,0.99999 L 3,312.64998 c -0.554,0 -1,-0.44602 -1,-0.99999 L 2,285.64998 C 2,285.09598 2.446,284.65 3,284.65 Z"
+       id="path29" />
+    <path
+       style="fill:#d5e3ed;fill-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 15.368163,289.68905 a 9,9 0 0 0 -7.9121085,8.92188 9,9 0 0 0 8.9999995,9 9,9 0 0 0 8.087891,-5.07813 9,9 0 0 1 -0.451172,0.0547 9,9 0 0 1 -0.636719,0.0234 9,9 0 0 1 -0.898438,-0.0449 9,9 0 0 1 -0.888671,-0.13477 9,9 0 0 1 -0.873047,-0.22265 9,9 0 0 1 -0.84375,-0.3086 9,9 0 0 1 -0.810547,-0.39062 9,9 0 0 1 -0.767578,-0.47071 9,9 0 0 1 -0.716797,-0.54492 9,9 0 0 1 -0.658203,-0.61328 9,9 0 0 1 -0.59375,-0.67578 9,9 0 0 1 -0.521485,-0.73047 9,9 0 0 1 -0.449218,-0.78125 9,9 0 0 1 -0.367188,-0.82031 9,9 0 0 1 -0.283203,-0.85352 9,9 0 0 1 -0.197266,-0.8789 9,9 0 0 1 -0.107421,-0.89258 9,9 0 0 1 -0.02344,-0.63671 9,9 0 0 1 0.04492,-0.89844 9,9 0 0 1 0.134766,-0.88867 9,9 0 0 1 0.222656,-0.87305 9,9 0 0 1 0.308594,-0.84375 9,9 0 0 1 0.201171,-0.41797 z"
+       id="path35-3" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#0d6198;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 20.5 12 C 18.863254 12 17.546651 12.871204 16.535156 14.021484 C 14.31307 14.076084 12.513616 15.846873 12.337891 18.039062 C 10.933479 19.035173 10 20.65896 10 22.5 C 10 25.51241 12.487594 28 15.5 28 L 23.5 28 C 27.066406 28 30 25.06641 30 21.5 C 30 18.6475 28.081999 16.315288 25.509766 15.455078 C 24.688477 13.454528 22.782928 12 20.5 12 z "
+       transform="translate(0,282.64999)"
+       id="path916" />
+    <path
+       style="fill:#d5e3ed;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 20.49997,296.64999 c -1.44139,0 -2.67131,0.86427 -3.20898,2.10352 -0.20943,-0.0604 -0.42688,-0.10352 -0.65625,-0.10352 -1.30999,0 -2.36329,1.05525 -2.36329,2.36523 v 0.26954 c 0,0.19841 0.0306,0.38834 0.0762,0.57226 C 12.98121,302.33306 12,303.61727 12,305.14999 c 0,1.939 1.561,3.5 3.5,3.5 h 8 c 2.493,0 4.5,-2.007 4.5,-4.5 0,-2.33682 -1.770773,-4.22301 -4.04492,-4.45312 C 23.732,297.97589 22.28367,296.64999 20.5,296.64999 Z"
+       id="path81-3-2" />
+  </g>
+</svg>

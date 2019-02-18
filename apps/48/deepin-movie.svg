@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="deepin-movie.svg">
+  <title
+     id="title7895">Antu icon Theme</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16"
+     inkscape:cx="19.47502"
+     inkscape:cy="16.241999"
+     inkscape:document-units="px"
+     inkscape:current-layer="g1470"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1874"
+     inkscape:window-height="1141"
+     inkscape:window-x="46"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-midpoints="false"
+     inkscape:showpageshadow="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7897"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Antu icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-266.64999)">
+    <g
+       id="g1470">
+      <g
+         transform="translate(-24,-4.000005)"
+         id="g5422">
+        <g
+           inkscape:label="Capa 1"
+           id="layer1-3-2"
+           transform="matrix(5.5433071,0,0,5.5433071,24.533333,-1328.2455)" />
+        <path
+           inkscape:connector-curvature="0"
+           id="rect854"
+           d="m 29,272.64999 h 38 c 1.662,0 3,1.338 3,3 v 38 c 0,1.662 -1.338,3 -3,3 H 29 c -1.662,0 -3,-1.338 -3,-3 v -38 c 0,-1.662 1.338,-3 3,-3 z"
+           style="opacity:1;fill:#3f88cb;fill-opacity:1;stroke:none;stroke-width:3.88529491;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="rect854-2"
+           d="m 29,273.64999 h 38 c 1.108,0 2,0.892 2,2 v 38 c 0,1.108 -0.892,2 -2,2 H 29 c -1.108,0 -2,-0.892 -2,-2 v -38 c 0,-1.108 0.892,-2 2,-2 z"
+           style="opacity:1;fill:#7ab9ff;fill-opacity:1;stroke:none;stroke-width:3.70869064;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         inkscape:label="Capa 1"
+         id="layer1-9-7"
+         transform="matrix(1.4666667,0,0,1.4666667,0.5333328,-147.37001)">
+        <path
+           style="opacity:1;fill:#e9f3ff;fill-opacity:1;stroke:none;stroke-width:1.81818187;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 6 7 C 5.4459936 7 5 7.4459813 5 8 L 5 10 C 5 10.554004 5.4459936 11 6 11 L 8 11 C 8.5540064 11 9 10.554004 9 10 L 9 8 C 9 7.4459813 8.5540064 7 8 7 L 6 7 z M 40 7 C 39.445995 7 39 7.4459813 39 8 L 39 10 C 39 10.554004 39.445995 11 40 11 L 42 11 C 42.554007 11 43 10.554004 43 10 L 43 8 C 43 7.4459813 42.554007 7 42 7 L 40 7 z M 6 13 C 5.4459958 13 5 13.445996 5 14 L 5 16 C 5 16.554004 5.4459958 17 6 17 L 8 17 C 8.5540042 17 9 16.554004 9 16 L 9 14 C 9 13.445996 8.5540042 13 8 13 L 6 13 z M 40 13 C 39.445996 13 39 13.445996 39 14 L 39 16 C 39 16.554004 39.445996 17 40 17 L 42 17 C 42.554005 17 43 16.554004 43 16 L 43 14 C 43 13.445996 42.554005 13 42 13 L 40 13 z M 17.988281 15 C 17.440601 15.006 17.000017 15.45228 17 16 L 17 32 C 17.000172 32.79859 17.890135 33.274871 18.554688 32.832031 L 30.554688 24.832031 C 31.148273 24.436151 31.148273 23.563849 30.554688 23.167969 L 18.554688 15.167969 C 18.387107 15.056219 18.18969 14.99767 17.988281 15 z M 6 19 C 5.4459936 19 5 19.445996 5 20 L 5 22 C 5 22.554004 5.4459936 23 6 23 L 8 23 C 8.5540064 23 9 22.554004 9 22 L 9 20 C 9 19.445996 8.5540064 19 8 19 L 6 19 z M 40 19 C 39.445995 19 39 19.445996 39 20 L 39 22 C 39 22.554004 39.445995 23 40 23 L 42 23 C 42.554007 23 43 22.554004 43 22 L 43 20 C 43 19.445996 42.554007 19 42 19 L 40 19 z M 6 25 C 5.4460001 25 5 25.446011 5 26 L 5 28 C 5 28.554004 5.4460001 29 6 29 L 8 29 C 8.5539999 29 9 28.554004 9 28 L 9 26 C 9 25.446011 8.5539999 25 8 25 L 6 25 z M 40 25 C 39.446 25 39 25.446011 39 26 L 39 28 C 39 28.554004 39.446 29 40 29 L 42 29 C 42.554001 29 43 28.554004 43 28 L 43 26 C 43 25.446011 42.554001 25 42 25 L 40 25 z M 6 31 C 5.4459936 31 5 31.445996 5 32 L 5 34 C 5 34.554004 5.4459936 35 6 35 L 8 35 C 8.5540064 35 9 34.554004 9 34 L 9 32 C 9 31.445996 8.5540064 31 8 31 L 6 31 z M 40 31 C 39.445995 31 39 31.445996 39 32 L 39 34 C 39 34.554004 39.445995 35 40 35 L 42 35 C 42.554007 35 43 34.554004 43 34 L 43 32 C 43 31.445996 42.554007 31 42 31 L 40 31 z M 6 37 C 5.4459936 37 5 37.445996 5 38 L 5 40 C 5 40.554004 5.4459936 41 6 41 L 8 41 C 8.5540064 41 9 40.554004 9 40 L 9 38 C 9 37.445996 8.5540064 37 8 37 L 6 37 z M 40 37 C 39.445995 37 39 37.445996 39 38 L 39 40 C 39 40.554004 39.445995 41 40 41 L 42 41 C 42.554007 41 43 40.554004 43 40 L 43 38 C 43 37.445996 42.554007 37 42 37 L 40 37 z "
+           transform="matrix(0.68181817,0,0,0.68181817,-0.36363599,282.28636)"
+           id="rect1189-5" />
+      </g>
+    </g>
+  </g>
+</svg>

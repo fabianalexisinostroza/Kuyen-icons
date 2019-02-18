@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="spectacle.svg">
+  <title
+     id="title7895">Antu icon Theme</title>
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-53">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-5"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-2"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-1"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-10">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-0"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-26"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-7"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="22.232019"
+     inkscape:cy="35.665192"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1874"
+     inkscape:window-height="1141"
+     inkscape:window-x="46"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:showpageshadow="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7897"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Antu icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-250.64999)">
+    <g
+       id="g4474"
+       transform="translate(4)">
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;vector-effect:none;fill:#6e7cd4;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -1,254.64999 h 58 c 1.662,0 3,1.338 3,3 v 50 c 0,1.662 -1.338,3 -3,3 H -1 c -1.662,0 -3,-1.338 -3,-3 v -50 c 0,-1.662 1.338,-3 3,-3 z"
+         id="rect2786" />
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;vector-effect:none;fill:#93a0e6;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -1,255.64999 h 58 c 1.108,0 2,0.892 2,2 v 50 c 0,1.108 -0.892,2 -2,2 H -1 c -1.108,0 -2,-0.892 -2,-2 v -50 c 0,-1.108 0.892,-2 2,-2 z"
+         id="rect2788" />
+      <path
+         style="opacity:1;vector-effect:none;fill:#ebecf4;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 3 7 L 3 10 L 3 14 L 6 14 L 6 10 L 10 10 L 10 7 L 6 7 L 3 7 z M 54 7 L 54 10 L 58 10 L 58 14 L 61 14 L 61 10 L 61 7 L 58 7 L 54 7 z M 23.001953 20 C 20.785953 20 19.001953 21.784 19.001953 24 C 19.001953 26.216 20.785953 28 23.001953 28 C 25.217953 28 27.001953 26.216 27.001953 24 C 27.001953 21.784 25.217953 20 23.001953 20 z M 36.984375 31 C 36.708157 31.004 36.445889 31.122042 36.259766 31.326172 L 29.560547 38.695312 L 25.751953 34.341797 C 25.550853 34.112277 25.255968 33.987133 24.951172 34.001953 C 24.680425 34.015253 24.426678 34.137907 24.248047 34.341797 L 17.248047 42.341797 C 16.683172 42.988177 17.141574 43.99905 18 44 L 32 44 L 46 44 C 46.842851 43.99909 47.306666 43.019927 46.773438 42.367188 L 37.773438 31.367188 C 37.580253 31.130767 37.289655 30.99554 36.984375 31 z M 3 50 L 3 54 L 3 57 L 6 57 L 10 57 L 10 54 L 6 54 L 6 50 L 3 50 z M 58 50 L 58 54 L 54 54 L 54 57 L 58 57 L 61 57 L 61 54 L 61 50 L 58 50 z "
+         transform="translate(-4,250.64999)"
+         id="rect2812" />
+    </g>
+  </g>
+</svg>

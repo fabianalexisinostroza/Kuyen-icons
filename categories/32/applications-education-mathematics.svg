@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="applications-education-mathematics.svg">
+  <title
+     id="title7895">Antu icon Theme</title>
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-2"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-60">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-6"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-2-6"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16"
+     inkscape:cx="2.2726621"
+     inkscape:cy="10.805007"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1874"
+     inkscape:window-height="1141"
+     inkscape:window-x="46"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:object-paths="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7897"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Antu icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-282.64999)">
+    <g
+       id="g2369"
+       transform="translate(25,-8)">
+      <path
+         id="path12329"
+         d="m -24,292.64999 c -0.55401,0 -1,0.446 -1,1 v 26 c 0,0.554 0.44599,1 1,1 H 6 c 0.55401,0 1,-0.446 1,-1 v -26 c 0,-0.554 -0.44599,-1 -1,-1 h -14 -3 z"
+         style="fill:#a36c4c;fill-opacity:1;stroke-width:1.00000012"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;fill:#ffc49c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -24,293.64999 30,0 0,26 -30,0 z"
+         id="rect4209" />
+      <path
+         style="opacity:1;fill:#a36c4c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -22,295.64999 26,0 0,22 -26,0 z"
+         id="rect4211" />
+      <path
+         style="opacity:1;fill:#1a8c7e;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -21,296.64999 24,0 0,20 -24,0 z"
+         id="rect4213" />
+    </g>
+    <path
+       style="opacity:1;fill:#e9f4f3;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 11 9 C 10.446 9 10 9.446 10 10 L 10 11 L 9 11 C 8.446 11 8 11.446 8 12 C 8 12.554 8.446 13 9 13 L 10 13 L 10 14 C 10 14.554 10.446 15 11 15 C 11.554 15 12 14.554 12 14 L 12 13 L 13 13 C 13.554 13 14 12.554 14 12 C 14 11.446 13.554 11 13 11 L 12 11 L 12 10 C 12 9.446 11.554 9 11 9 z M 21 10 C 19.892 10 19 10.892 19 12 C 19 13.108 19.892 14 21 14 C 22.108 14 23 13.108 23 12 C 23 10.892 22.108 10 21 10 z M 19 18 C 18.446 18 18 18.446 18 19 C 18 19.554 18.446 20 19 20 L 23 20 C 23.554 20 24 19.554 24 19 C 24 18.446 23.554 18 23 18 L 19 18 z M 9 20 C 8.446 20 8 20.446 8 21 C 8 21.554 8.446 22 9 22 L 13 22 C 13.554 22 14 21.554 14 21 C 14 20.446 13.554 20 13 20 L 9 20 z M 19 21 C 18.446 21 18 21.446 18 22 C 18 22.554 18.446 23 19 23 L 23 23 C 23.554 23 24 22.554 24 22 C 24 21.446 23.554 21 23 21 L 19 21 z "
+       transform="translate(0,282.64999)"
+       id="path839" />
+  </g>
+</svg>

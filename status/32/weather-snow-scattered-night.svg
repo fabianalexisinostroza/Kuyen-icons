@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="weather-snow-scattered-night.svg">
+  <title
+     id="title7895">Antu icon Theme</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.627417"
+     inkscape:cx="24.54084"
+     inkscape:cy="12.481512"
+     inkscape:document-units="px"
+     inkscape:current-layer="g19833"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1874"
+     inkscape:window-height="1141"
+     inkscape:window-x="46"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:showpageshadow="false"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-midpoints="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7897"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Antu icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-282.64999)">
+    <g
+       id="g19833"
+       transform="translate(84,-4)">
+      <path
+         id="path34-0"
+         d="m -81,287.64999 25.999999,0 C -53.892,287.64999 -53,288.542 -53,289.65 l 0,25.99998 c 0,1.108 -0.892,2.00001 -2.000001,2.00001 l -25.999999,0 c -1.108,0 -2,-0.89201 -2,-2.00001 L -83,289.65 c 0,-1.108 0.892,-2.00001 2,-2.00001 z"
+         inkscape:connector-curvature="0"
+         style="fill:#2d4266;fill-opacity:1" />
+      <path
+         id="path36-3"
+         d="m -81,288.65002 25.999999,0 C -54.446,288.65002 -54,289.096 -54,289.65 l 0,26.00001 c 0,0.55397 -0.446,0.99999 -1.000001,0.99999 L -81,316.65 c -0.554,0 -1,-0.44602 -1,-0.99999 L -82,289.65 c 0,-0.554 0.446,-0.99998 1,-0.99998 z"
+         inkscape:connector-curvature="0"
+         style="fill:#0d6198;fill-opacity:1" />
+      <path
+         style="fill:#d5e3ed;fill-opacity:1"
+         d="M 17.5 6 C 15.39931 6 13.660666 7.4329769 13.160156 9.3730469 C 12.832857 9.1394769 12.4345 9 12 9 C 10.89202 9 10 9.89202 10 11 C 10 11.0151 10.004859 11.034028 10.005859 11.048828 C 8.3047594 11.289578 7 12.73039 7 14.5 C 7 16.43901 8.561 18 10.5 18 L 21.5 18 C 23.438999 18 25 16.43901 25 14.5 C 25 12.71368 23.670037 11.264632 21.945312 11.044922 C 21.967233 10.864262 22 10.68701 22 10.5 C 22 8.00703 19.992987 6 17.5 6 z M 14.5 20 C 13.669 20 13 20.669 13 21.5 C 13 22.331 13.669 23 14.5 23 C 15.331 23 16 22.331 16 21.5 C 16 20.669 15.331 20 14.5 20 z M 10 21 C 9.446 21 9 21.446 9 22 C 9 22.554 9.446 23 10 23 C 10.554 23 11 22.554 11 22 C 11 21.446 10.554 21 10 21 z M 20.5 21 C 19.669 21 19 21.669 19 22.5 C 19 23.331 19.669 24 20.5 24 C 21.331 24 22 23.331 22 22.5 C 22 21.669 21.331 21 20.5 21 z M 16.484375 25 C 15.662031 25 15 25.662035 15 26.484375 L 15 26.515625 C 15 27.337975 15.662031 28.00005 16.484375 28 L 16.515625 28 C 17.337969 28 18 27.337975 18 26.515625 L 18 26.484375 C 18 25.662035 17.337969 25 16.515625 25 L 16.484375 25 z M 22 25 C 21.446 25 21 25.446 21 26 C 21 26.554 21.446 27 22 27 C 22.554 27 23 26.554 23 26 C 23 25.446 22.554 25 22 25 z "
+         transform="translate(-84,286.64999)"
+         id="path52-1" />
+    </g>
+  </g>
+</svg>
