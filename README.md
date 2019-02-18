@@ -1,4 +1,4 @@
-![Küyen preview](https://pinguinosyuncafe.files.wordpress.com/2019/02/kuyen.png)
+![Küyen preview](https://pinguinosyuncafe.files.wordpress.com/2019/02/kuyen-3.png)
 
 ## Welcome to the Küyen icon theme
 
@@ -17,7 +17,7 @@
 * In a Terminal run: 
   * `git clone + URL`
 
-- If you want the latest release, alternatively can download from KDE Store [**here**](https://store.kde.org/p/1188266/)
+- If you want the latest release, alternatively can download from KDE Store [**here**](https://www.opendesktop.org/p/1290492/)
 
 
 # Installing the icons
@@ -31,4 +31,4 @@
 
 - If you want to report icons, please, use the issues page on this repository (:.
 
-![Antü icons](https://pinguinosyuncafe.files.wordpress.com/2018/06/preview.png)
+![Küyen icons](https://pinguinosyuncafe.files.wordpress.com/2019/02/kuyen-teaser.png)
