@@ -1,4 +1,4 @@
-![Küyen preview](https://pinguinosyuncafe.files.wordpress.com/2019/02/kuyen-3.png)
+![Küyen preview](https://pinguinosyuncafe.files.wordpress.com/2019/03/kuyen-new.png)
 
 ## Welcome to the Küyen icon theme
 
