@@ -19,7 +19,15 @@
   <title
      id="title7895">Antu icon Theme</title>
   <defs
-     id="defs2" />
+     id="defs2">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -27,11 +35,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="9.330741"
-     inkscape:cy="18.466238"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="17.263866"
+     inkscape:cy="142.89556"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer1-62"
      showgrid="true"
      units="px"
      inkscape:window-width="1870"
@@ -69,24 +77,45 @@
      id="layer1"
      transform="translate(0,-282.64999)">
     <g
-       id="g24"
-       transform="translate(-26.3125,-24.6875)">
-      <path
-         id="rect843-37"
-         d="m 29.3125,308.33749 h 25.999999 c 1.108001,0 2.000001,0.89201 2.000001,2.00001 v 25.99998 c 0,1.108 -0.892,2.00001 -2.000001,2.00001 H 29.3125 c -1.108,0 -2,-0.89201 -2,-2.00001 V 310.3375 c 0,-1.108 0.892,-2.00001 2,-2.00001 z"
-         style="opacity:1;fill:#4972c5;fill-opacity:1;stroke:none;stroke-width:2.39314151;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-      <path
-         id="rect843-3-5"
-         d="m 29.3125,309.33752 h 25.999999 c 0.554001,0 1.000001,0.44598 1.000001,0.99998 v 26.00001 c 0,0.55397 -0.446,0.99999 -1.000001,0.99999 H 29.3125 c -0.554,0 -1,-0.44602 -1,-0.99999 V 310.3375 c 0,-0.554 0.446,-0.99998 1,-0.99998 z"
-         style="opacity:1;fill:#5ba2fb;fill-opacity:1;stroke:none;stroke-width:2.23359871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
+       id="layer1-62"
+       inkscape:label="Capa 1">
+      <g
+         transform="translate(10,-6)"
+         id="g1574">
+        <path
+           style="opacity:1;fill:#4972c5;fill-opacity:1;stroke:none;stroke-width:1.97685266;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 6,289.64999 c 8.31,0 15,6.69 15,15 0,8.31 -6.69,15 -15,15 -8.31,0 -15,-6.69 -15,-15 0,-8.31 6.69,-15 15,-15 z"
+           id="rect903"
+           inkscape:connector-curvature="0" />
+        <path
+           style="opacity:1;fill:#5ba2fb;fill-opacity:1;stroke:none;stroke-width:1.84506249;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 6,290.64999 c 7.756,0 14,6.244 14,14 0,7.756 -6.244,14 -14,14 -7.756,0 -14,-6.244 -14,-14 0,-7.756 6.244,-14 14,-14 z"
+           id="rect903-2"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(3.7795275,0,0,3.7795275,-3.870769e-8,-806.86961)"
+         id="layer1-3"
+         inkscape:label="Capa 1"
+         style="fill:#f37d5c;fill-opacity:1" />
+      <g
+         inkscape:label="Capa 1"
+         id="layer1-6"
+         transform="translate(0,0.99996)">
+        <g
+           id="g24-9"
+           transform="translate(-26.3125,-24.6875)" />
+        <g
+           id="g825"
+           transform="translate(0,-0.99997)">
+          <path
+             sodipodi:nodetypes="cccccccccccccccccccc"
+             style="fill:#e5f3ff;fill-opacity:1;stroke-width:1.96760929;enable-background:new"
+             d="m 24,290.64999 -9,0.99999 v 6.99998 l 9,8e-5 z m -10,0.99999 -7,1.00005 v 5.99991 h 7 z m -7,8.00005 v 6 l 7,0.99998 v -6.99998 z m 8,-9e-5 v 7.00007 l 9,0.99999 v -7.9999 z"
+             id="path2699-7-1"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
     </g>
-    <path
-       inkscape:connector-curvature="0"
-       id="path2699-7"
-       d="m 24,289.64998 -9,0.99999 v 6.99998 l 9,8e-5 z m -10,0.99999 -7,1.00005 v 5.99991 h 7 z m -7,8.00005 v 6 l 7,0.99998 v -6.99998 z m 8,-9e-5 V 305.65 l 9,0.99999 v -7.9999 z"
-       style="fill:#e5f3ff;fill-opacity:1;stroke-width:1.96760929;enable-background:new"
-       sodipodi:nodetypes="cccccccccccccccccccc" />
   </g>
 </svg>

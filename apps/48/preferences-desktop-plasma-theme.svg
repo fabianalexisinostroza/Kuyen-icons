@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="preferences-desktop-plasma.svg">
+  <title
+     id="title7895">Antu icon Theme</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.627418"
+     inkscape:cx="-0.056189394"
+     inkscape:cy="5.6890475"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1874"
+     inkscape:window-height="1141"
+     inkscape:window-x="46"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7897"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Antu icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-266.64999)">
+    <g
+       id="layer1-8"
+       inkscape:label="Capa 1">
+      <g
+         inkscape:label="Capa 1"
+         id="layer1-7">
+        <g
+           id="g8335"
+           transform="translate(35.071428,-3.99999)">
+          <path
+             style="opacity:1;fill:#004f60;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-opacity:1"
+             d="M 23 3 L 23 45 L 24 45 L 46 45 C 47.108006 45 48 44.10801 48 43 L 48 5 C 48 3.892 47.107968 3 46 3 L 25 3 L 24 3 L 23 3 z "
+             transform="translate(-35.071428,270.64998)"
+             id="path1107" />
+          <path
+             style="opacity:1;fill:#1a76c0;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-opacity:1"
+             d="M 2 3 C 0.891994 3 0 3.892 0 5 L 0 43 C 0 44.10801 0.891994 45 2 45 L 23 45 L 23 3 L 19.976562 3 L 2 3 z "
+             id="rect9183-4-4"
+             transform="translate(-35.071428,270.64998)" />
+          <path
+             style="opacity:0.98999999;fill:#00b9b5;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-opacity:1"
+             d="M 24 38 L 47 38 L 47 5 C 47 4.44604 46.554003 4 46 4 L 24 4 L 24 38 z "
+             id="path1098"
+             transform="translate(-35.071428,270.64998)" />
+          <path
+             style="opacity:0.98999999;fill:#44acff;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-opacity:1"
+             d="M 23 4 L 20 4 L 2 4 C 1.445996 3.997 1 4.44604 1 5 L 1 38 L 23 38 L 23 4 z "
+             id="path1096"
+             transform="translate(-35.071428,270.64998)" />
+          <path
+             style="opacity:0.98999999;fill:#006b69;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 24 38 L 24 44 L 46 44 C 46.554003 44 47 43.554 47 43 L 47 42 L 47 40 L 47 38 L 46 38 L 24 38 z "
+             id="path1123"
+             transform="translate(-35.071428,270.64998)" />
+          <path
+             style="opacity:0.98999999;fill:#d1ebff;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 1 38 L 1 40 L 1 42 L 1 43 C 1 43.554 1.446001 44 2 44 L 23 44 L 23 38 L 2 38 L 1 38 z "
+             id="rect4523"
+             transform="translate(-35.071428,270.64998)" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
