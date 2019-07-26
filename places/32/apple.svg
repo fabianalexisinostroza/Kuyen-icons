@@ -14,7 +14,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="apple.svg">
   <title
      id="title7895">Antu icon Theme</title>
@@ -28,15 +28,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16"
-     inkscape:cx="13.926271"
+     inkscape:cx="3.488771"
      inkscape:cy="7.5309083"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1876"
+     inkscape:window-width="1870"
      inkscape:window-height="1141"
-     inkscape:window-x="44"
+     inkscape:window-x="50"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
      objecttolerance="10"
@@ -101,18 +101,18 @@
              d="m 25.824,200.612 c 0.166,-0.273 0.342,-0.542 0.518,-0.806 28.447,-43.799 73.32,-69.434 115.518,-69.434 42.969,0 69.98,23.555 105.498,23.555 34.463,0 55.454,-23.589 105.132,-23.589 37.534,0 77.329,20.439 105.674,55.781 -7.837,4.292 -14.907,9.165 -21.226,14.521 z"
              id="path5"
              inkscape:connector-curvature="0"
-             style="clip-rule:evenodd;fill:#bae0bd;fill-opacity:1;fill-rule:evenodd;stroke:#5e9c76;stroke-width:31.74256516;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+             style="clip-rule:evenodd;fill:#26c186;fill-opacity:1;fill-rule:evenodd;stroke:#008c52;stroke-width:31.74256516;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
           <path
              stroke-miterlimit="2.6131"
              d="M 314.808,90.875 C 332.84,67.716 346.556,35.016 341.585,1.583 312.103,3.604 277.62,22.374 257.479,46.808 c -18.276,22.197 -33.364,55.117 -27.49,87.095 32.187,1.001 65.483,-18.218 84.819,-43.028 z"
              id="path7"
              inkscape:connector-curvature="0"
-             style="clip-rule:evenodd;fill:#bae0bd;fill-opacity:1;fill-rule:evenodd;stroke:#5e9c76;stroke-width:31.74256516;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+             style="clip-rule:evenodd;fill:#26c186;fill-opacity:1;fill-rule:evenodd;stroke:#008c52;stroke-width:31.74256516;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
           <path
              stroke-miterlimit="2.6131"
              d="M 24.356544,199.96661 C 12.105918,219.15949 3.6294315,246.66842 1.38,270.79701 l 397.43701,-0.0102 c 4.29717,-26.39752 18.58564,-51.61732 41.233,-70.79103 l -415.693466,-0.0292 h 0.02346 z"
              id="path9"
-             style="clip-rule:evenodd;fill:#ffeea3;fill-opacity:1;fill-rule:evenodd;stroke:#ba9b48;stroke-width:31.74256516;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             style="clip-rule:evenodd;fill:#ffc802;fill-opacity:1;fill-rule:evenodd;stroke:#ff9a0a;stroke-width:31.74256516;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              inkscape:connector-curvature="0"
              sodipodi:nodetypes="ccccccc" />
           <path
@@ -120,25 +120,25 @@
              d="M 4.989,340.998 C 1.127,316.354 0.502,292.595 2.928,270.798 l 394.341,-0.01 c -3.857,23.638 -0.62,48.237 9.136,70.225 z"
              id="path11"
              inkscape:connector-curvature="0"
-             style="clip-rule:evenodd;fill:#f0a371;fill-opacity:1;fill-rule:evenodd;stroke:#b86e3e;stroke-width:31.74256516;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+             style="clip-rule:evenodd;fill:#ff8b60;fill-opacity:1;fill-rule:evenodd;stroke:#dd4d25;stroke-width:31.74256516;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
           <path
              stroke-miterlimit="2.6131"
              d="M 24.261,411.193 C 14.949,387.609 8.573,363.922 4.989,340.998 l 401.416,0.015 c 12.427,28.018 35.425,51.821 67.808,64.053 -0.962,2.139 -1.89,4.185 -2.783,6.157 z"
              id="path13"
              inkscape:connector-curvature="0"
-             style="clip-rule:evenodd;fill:#f78f8f;fill-opacity:1;fill-rule:evenodd;stroke:#c74343;stroke-width:31.74256516;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+             style="clip-rule:evenodd;fill:#f9304d;fill-opacity:1;fill-rule:evenodd;stroke:#bc0722;stroke-width:31.74256516;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
           <path
              stroke-miterlimit="2.6131"
              d="m 471.429,411.222 c -11.118,24.443 -17.563,37.129 -32.949,60.547 -2.07,3.145 -4.209,6.362 -6.436,9.609 L 61.517,481.412 C 60.33,479.644 59.154,477.877 57.996,476.124 44.143,455.025 32.928,433.15 24.261,411.192 Z"
              id="path15"
              inkscape:connector-curvature="0"
-             style="clip-rule:evenodd;fill:#dcd5f2;fill-opacity:1;fill-rule:evenodd;stroke:#8b75a1;stroke-width:31.74256516;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+             style="clip-rule:evenodd;fill:#af75b3;fill-opacity:1;fill-rule:evenodd;stroke:#8631a6;stroke-width:31.74256516;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
           <path
              stroke-miterlimit="2.6131"
              d="m 432.044,481.378 c -22.666,33.203 -53.096,69.741 -90.02,70.088 -36.03,0.327 -45.273,-23.447 -94.155,-23.179 -48.882,0.273 -59.087,23.594 -95.117,23.257 -38.521,-0.356 -68.433,-36.24 -91.235,-70.132 z"
              id="path19"
              inkscape:connector-curvature="0"
-             style="clip-rule:evenodd;fill:#8bb7f0;fill-opacity:1;fill-rule:evenodd;stroke:#4e7ab5;stroke-width:31.74256516;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+             style="clip-rule:evenodd;fill:#2aa9f6;fill-opacity:1;fill-rule:evenodd;stroke:#1a6cb2;stroke-width:31.74256516;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         </g>
       </g>
     </g>
