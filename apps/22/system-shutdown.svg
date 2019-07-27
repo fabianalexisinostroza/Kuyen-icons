@@ -12,7 +12,7 @@
    width="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="system-shutdown.svg">
   <metadata
      id="metadata10">
@@ -35,14 +35,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1874"
+     inkscape:window-width="1870"
      inkscape:window-height="1141"
      id="namedview8"
      showgrid="true"
      inkscape:zoom="21.454546"
-     inkscape:cx="11.152796"
+     inkscape:cx="3.3688979"
      inkscape:cy="1.9920316"
-     inkscape:window-x="46"
+     inkscape:window-x="50"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
@@ -134,7 +134,7 @@
        sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
        d="m 15,16 1,4 3,2 -4,6 -1,-4 -3,-2 z"
-       style="color:#122036;fill:#d72f4a;fill-opacity:1;stroke:none"
+       style="color:#122036;fill:#ffe6e9;fill-opacity:1;stroke:none"
        class="ColorScheme-Text"
        id="path1088" />
   </g>

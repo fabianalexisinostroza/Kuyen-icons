@@ -14,7 +14,7 @@
    viewBox="0 0 48 48"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="system-shutdown.svg">
   <title
      id="title7895">Antu icon Theme</title>
@@ -85,15 +85,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.999999"
-     inkscape:cx="29.383615"
+     inkscape:cx="18.946114"
      inkscape:cy="25.465206"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-6"
      showgrid="true"
      units="px"
-     inkscape:window-width="1874"
+     inkscape:window-width="1870"
      inkscape:window-height="1141"
-     inkscape:window-x="46"
+     inkscape:window-x="50"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
      objecttolerance="10"
@@ -156,7 +156,7 @@
              id="layer1-6"
              inkscape:label="Capa 1">
             <path
-               style="fill:#d72f4a;fill-opacity:1;stroke:none;stroke-width:1.50000143px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               style="fill:#ffffff;fill-opacity:0.84313726;stroke:none;stroke-width:1.50000143px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                d="m 53.999997,310.64999 12.000012,-15.00006 -7.500008,-4.5 1.500001,-10.49994 -12.000011,14.99994 7.500006,4.5 z"
                id="path4614-7-29"
                inkscape:connector-curvature="0" />
