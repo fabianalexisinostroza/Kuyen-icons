@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="yast-checkmedia.svg">
+  <title
+     id="title7895">Antu icon Theme</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16"
+     inkscape:cx="10.099529"
+     inkscape:cy="20.700687"
+     inkscape:document-units="px"
+     inkscape:current-layer="g7392"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1874"
+     inkscape:window-height="1141"
+     inkscape:window-x="46"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7897"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Antu icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-266.64999)">
+    <g
+       id="g7392"
+       transform="translate(38.142135,12.000005)">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4544"
+         d="m -14.142159,256.65001 h 4.7e-5 c 12.1879763,0 21.9999773,9.81198 21.9999773,21.99998 0,12.18797 -9.812001,21.99997 -21.9999773,21.99997 h -4.7e-5 c -12.188,0 -21.999977,-9.812 -21.999977,-21.99997 0,-12.188 9.811977,-21.99998 21.999977,-21.99998 z"
+         style="opacity:1;fill:#2fa76c;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4544-5"
+         d="m -14.142159,257.64997 h 2.3e-5 c 11.6339993,0 20.9999923,9.36599 20.9999923,20.99999 0,11.63401 -9.365993,21 -20.9999923,21 h -2.3e-5 c -11.633999,0 -20.999992,-9.36599 -20.999992,-21 0,-11.634 9.365993,-20.99999 20.999992,-20.99999 z"
+         style="opacity:1;fill:#53d18a;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path6762"
+         d="m -25.142135,279.64999 8.030301,8.00013 14.0000003,-16"
+         style="fill:none;stroke:#f3fcf5;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

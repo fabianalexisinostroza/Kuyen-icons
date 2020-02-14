@@ -14,7 +14,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="preferences-system-session-services.svg">
   <title
      id="title7895">Antu icon Theme</title>
@@ -42,17 +42,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="31.320656"
-     inkscape:cy="12.591858"
+     inkscape:zoom="128"
+     inkscape:cx="10.772787"
+     inkscape:cy="16.906356"
      inkscape:document-units="px"
      inkscape:current-layer="g1114"
      showgrid="true"
      units="px"
-     inkscape:window-width="1874"
-     inkscape:window-height="1141"
-     inkscape:window-x="46"
-     inkscape:window-y="30"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -134,9 +134,10 @@
        id="g1114">
       <path
          id="rect1045-9"
-         d="m 6,295.64999 v 1 h 3 v -1 z m 4.546875,0 v 1 H 12 v -1 z m 2.453125,0 v 1 h 4 v -1 z m -7,2 v 1 h 1 v -1 z m 2,0 v 1 h 3 v -1 z m 4,0 v 1 h 4 v -1 z m -6,2 v 1 h 6 v -1 z m 7,0 v 1 h 1 v -1 z m 2,0 v 1 h 2 v -1 z m -9,2 v 1 h 3 v -1 z m 4,0 v 1 h 3 v -1 z m 4,0 v 1 h 3 v -1 z m -8,2 v 1 h 1 v -1 z m 2,0 v 1 h 7 v -1 z m 8,0 v 1 h 1 v -1 z"
+         d="m 6,295.64999 v 1 h 3 v -1 z m 4,0 v 1 h 2 v -1 z m 3,0 v 1 h 4 v -1 z m -7,2 v 1 h 1 v -1 z m 2,0 v 1 h 3 v -1 z m 4,0 v 1 h 4 v -1 z m -6,2 v 1 h 6 v -1 z m 7,0 v 1 h 1 v -1 z m 2,0 v 1 h 2 v -1 z m -9,2 v 1 h 3 v -1 z m 4,0 v 1 h 3 v -1 z m 4,0 v 1 h 3 v -1 z m -8,2 v 1 h 1 v -1 z m 2,0 v 1 h 7 v -1 z m 8,0 v 1 h 1 v -1 z"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
       <g
          transform="translate(32,1)"
          inkscape:label="Capa 1"
