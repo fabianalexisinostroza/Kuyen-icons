@@ -14,7 +14,7 @@
    viewBox="0 0 48 48"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="firefox-developer.svg">
   <title
      id="title7895">Antu icon Theme</title>
@@ -28,16 +28,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627416"
-     inkscape:cx="16.595461"
+     inkscape:cx="8.3974414"
      inkscape:cy="32.165881"
      inkscape:document-units="px"
      inkscape:current-layer="g905"
      showgrid="true"
      units="px"
-     inkscape:window-width="1874"
-     inkscape:window-height="1141"
-     inkscape:window-x="46"
-     inkscape:window-y="30"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -75,7 +75,7 @@
        id="g905"
        transform="translate(-16,-21.997903)">
       <g
-         transform="translate(76.000128,18.002078)"
+         transform="matrix(0.86363634,0,0,0.86363634,71.090909,58.177458)"
          id="g2183">
         <path
            style="opacity:1;fill:#a3b7cc;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -83,8 +83,8 @@
            id="rect4544"
            inkscape:connector-curvature="0" />
         <path
-           style="opacity:1;fill:#e8f6ff;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m -36.000024,273.64997 h 2.3e-5 c 11.633999,0 20.999992,9.36599 20.999992,20.99999 0,11.63401 -9.365993,21 -20.999992,21 h -2.3e-5 c -11.633999,0 -20.999992,-9.36599 -20.999992,-21 0,-11.634 9.365993,-20.99999 20.999992,-20.99999 z"
+           style="opacity:1;fill:#e8f6ff;fill-opacity:1;stroke:none;stroke-width:0.2977443;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -36.000013,273.80789 h 2.3e-5 c 11.546524,0 20.842095,9.29557 20.842095,20.84209 0,11.54654 -9.295571,20.84211 -20.842095,20.84211 h -2.3e-5 c -11.546523,0 -20.842094,-9.29557 -20.842094,-20.84211 0,-11.54652 9.295571,-20.84209 20.842094,-20.84209 z"
            id="rect4544-5"
            inkscape:connector-curvature="0" />
       </g>

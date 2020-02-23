@@ -14,8 +14,8 @@
    viewBox="0 0 48 48"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="firefox.svg">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="firefox-esr.svg">
   <title
      id="title7895">Antu icon Theme</title>
   <defs
@@ -210,17 +210,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="17.442595"
-     inkscape:cy="29.909402"
+     inkscape:zoom="22.627417"
+     inkscape:cx="17.840931"
+     inkscape:cy="36.718389"
      inkscape:document-units="px"
-     inkscape:current-layer="g905"
+     inkscape:current-layer="g2183"
      showgrid="true"
      units="px"
-     inkscape:window-width="1874"
-     inkscape:window-height="1141"
-     inkscape:window-x="46"
-     inkscape:window-y="30"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -261,13 +261,13 @@
          transform="translate(76.000128,18.002078)"
          id="g2183">
         <path
-           style="opacity:1;fill:#287bc2;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m -36.000024,272.65001 h 4.7e-5 c 12.187976,0 21.999977,9.81198 21.999977,21.99998 0,12.18797 -9.812001,21.99997 -21.999977,21.99997 h -4.7e-5 c -12.188,0 -21.999977,-9.812 -21.999977,-21.99997 0,-12.188 9.811977,-21.99998 21.999977,-21.99998 z"
+           style="opacity:1;fill:#287bc2;fill-opacity:1;stroke:none;stroke-width:0.2590909;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -36.000148,275.64583 h 4e-5 c 10.525979,0 18.99998,8.47399 18.99998,18.99999 0,10.52597 -8.474001,18.99998 -18.99998,18.99998 h -4e-5 c -10.526,0 -18.99998,-8.474 -18.99998,-18.99998 0,-10.526 8.47398,-18.99999 18.99998,-18.99999 z"
            id="rect4544"
            inkscape:connector-curvature="0" />
         <path
-           style="opacity:1;fill:#78c1ff;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m -36.000024,273.64997 h 2.3e-5 c 11.633999,0 20.999992,9.36599 20.999992,20.99999 0,11.63401 -9.365993,21 -20.999992,21 h -2.3e-5 c -11.633999,0 -20.999992,-9.36599 -20.999992,-21 0,-11.634 9.365993,-20.99999 20.999992,-20.99999 z"
+           style="opacity:1;fill:#78c1ff;fill-opacity:1;stroke:none;stroke-width:0.25714281;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -36.000138,276.64582 h 2e-5 c 9.971997,0 17.99999,8.02799 17.99999,17.99999 0,9.97201 -8.027993,18 -17.99999,18 h -2e-5 c -9.971997,0 -17.99999,-8.02799 -17.99999,-18 0,-9.972 8.027993,-17.99999 17.99999,-17.99999 z"
            id="rect4544-5"
            inkscape:connector-curvature="0" />
       </g>
