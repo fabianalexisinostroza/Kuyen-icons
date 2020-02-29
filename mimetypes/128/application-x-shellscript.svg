@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="33.734525"
+     inkscape:cx="-12.640475"
      inkscape:cy="67.926485"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -74,14 +74,21 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(0.51263018,0,0,0.51026783,0.56223956,134.89458)"
-       id="layer1-6"
-       inkscape:label="Capa 1">
-      <path
-         style="opacity:1;fill:#3c4f5e;fill-opacity:1;stroke:none;stroke-width:7.73212242;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 11.408203 5 C 11.10919 5.4164131 10.753263 5.7914315 10.550781 6.2695312 C 10.195865 7.1075608 10 8.0305019 10 9 L 10 11 L 10 13 L 10.404297 13 L 27.595703 13 L 100.4043 13 L 117.5957 13 L 118 13 L 118 11 L 118 9 C 118 8.0305019 117.80413 7.1075608 117.44922 6.2695312 C 117.24674 5.7914315 116.89081 5.4164131 116.5918 5 L 101.4082 5 L 26.591797 5 L 11.408203 5 z M 10 17 L 10 18 L 10 25 L 17 25 L 111 25 L 118 25 L 118 18 L 118 17 L 10 17 z M 10 29 L 10 37 L 118 37 L 118 29 L 10 29 z M 10 41 L 10 49 L 118 49 L 118 41 L 10 41 z M 10 54 L 10 62 L 118 62 L 118 54 L 10 54 z M 10 66 L 10 74 L 118 74 L 118 66 L 10 66 z M 10 78 L 10 86 L 118 86 L 118 78 L 10 78 z M 10 90 L 10 98 L 118 98 L 118 90 L 10 90 z M 10 102 L 10 110 L 118 110 L 118 102 L 10 102 z M 10 114 L 10 117 L 10 119 C 10 119.9695 10.195548 120.89244 10.548828 121.73047 C 10.591659 121.83207 10.683055 121.90094 10.730469 122 L 27.269531 122 L 100.73047 122 L 116 122 L 117.26953 122 C 117.31695 121.90094 117.40834 121.83207 117.45117 121.73047 C 117.80445 120.89244 118 119.9695 118 119 L 118 118 L 118 117 L 118 114 L 117.26953 114 L 100.73047 114 L 27.269531 114 L 10.730469 114 L 10 114 z "
-         transform="matrix(0.51612904,0,0,0.51851852,-1.0967742,251.31665)"
-         id="path985" />
+       transform="matrix(1.9999995,0,0,1.9999995,29.36875,-297.52907)"
+       id="layer1-62"
+       inkscape:label="Capa 1"
+       style="fill:#3c4f5e;fill-opacity:1">
+      <g
+         transform="translate(12.175031,-3.2214985)"
+         id="g1543"
+         style="fill:#3c4f5e;fill-opacity:1">
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#3c4f5e;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -25.536493,285.1403 v 1.05833 l 14.287503,-10e-6 v -1.05833 z m 0,2.11666 v 1.05834 l 14.287503,-10e-6 v -1.05834 z m 0,2.11667 v 1.05833 l 14.287503,-1e-5 v -1.05833 z m 0,2.11667 v 1.05833 l 14.287503,-10e-6 v -1.05833 z m 0,2.11666 v 1.05834 l 14.287503,-10e-6 v -1.05834 z m 0,2.11667 v 1.05833 l 14.287503,-1e-5 v -1.05833 z m 0,2.11667 v 1.05833 l 14.287503,-1e-5 v -1.05833 z"
+           id="rect1052-1"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc" />
+      </g>
     </g>
     <path
        style="opacity:1;vector-effect:none;fill:#9affc1;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
