@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
    height="32"
    viewBox="0 0 32 32"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="wps-office-wppmain.svg">
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="wps-office-wppmain.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title7895">Antu icon Theme</title>
   <defs
@@ -84,21 +84,24 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.4"
-     inkscape:cx="-4.44774"
-     inkscape:cy="9.1918371"
+     inkscape:zoom="22.627417"
+     inkscape:cx="17.058951"
+     inkscape:cy="13.766485"
      inkscape:document-units="px"
      inkscape:current-layer="g2167"
      showgrid="true"
      units="px"
-     inkscape:window-width="1874"
-     inkscape:window-height="1141"
-     inkscape:window-x="46"
-     inkscape:window-y="30"
+     inkscape:window-width="2160"
+     inkscape:window-height="1337"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      objecttolerance="10"
      gridtolerance="10"
-     guidetolerance="10">
+     guidetolerance="10"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid7897"
@@ -133,16 +136,9 @@
          d="M -23,289.64999 H 3 c 0.554,0 1,0.446 1,1 v 26 c 0,0.554 -0.446,1 -1,1 h -26 c -0.554,0 -1,-0.446 -1,-1 v -26 c 0,-0.554 0.446,-1 1,-1 z"
          id="rect843-3" />
       <path
-         id="rect4665-4"
-         d="m -15,302.65011 h 10.9999993 v 4.99997 H -15 Z"
-         style="opacity:1;fill:#ffd8dd;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-      <path
-         sodipodi:nodetypes="ccccccccccc"
-         inkscape:connector-curvature="0"
-         id="rect4645-7"
-         d="m -19,293.65003 v 20.00001 h 4.999999 v -15 h 8.0000003 v 9 h 5 V 293.65003 H -14.000001 -15 Z"
-         style="opacity:1;fill:#fbebee;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-opacity:1" />
+         id="rect2576"
+         style="fill:#fbebee;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+         d="M -6.2558594 292.63632 C -6.3936858 292.63632 -6.5303759 292.64162 -6.6660156 292.64999 L -7.9921875 292.64999 L -17.007812 292.64999 C -18.111439 292.64999 -19 293.53855 -19 294.64218 L -19 294.65781 C -19 295.76143 -18.111439 296.64999 -17.007812 296.64999 L -7.9921875 296.64999 L -6 296.64999 C -5.9157531 296.65799 -5.8315184 296.6705 -5.75 296.6871 C -5.6684821 296.7037 -5.5900963 296.72345 -5.5117188 296.74765 C -5.4333408 296.77195 -5.3560741 296.80003 -5.28125 296.83163 C -5.2064261 296.86313 -5.133358 296.89873 -5.0625 296.9371 C -4.9916421 296.9755 -4.9219481 297.0173 -4.8554688 297.0621 C -4.7889898 297.1069 -4.7257506 297.1558 -4.6640625 297.20663 C -4.6023746 297.25753 -4.5428124 297.31031 -4.4863281 297.36679 C -4.4298442 297.42329 -4.3770397 297.48284 -4.3261719 297.54453 C -4.2753039 297.60623 -4.2264799 297.66945 -4.1816406 297.73593 C -4.1368017 297.80243 -4.0950376 297.87211 -4.0566406 297.94296 C -4.0182437 298.01386 -3.9827145 298.08689 -3.9511719 298.16171 C -3.9196289 298.23651 -3.8914635 298.31381 -3.8671875 298.39218 C -3.8429115 298.47058 -3.8232376 298.54895 -3.8066406 298.63046 C -3.7900436 298.71196 -3.7780352 298.79622 -3.7695312 298.88046 C -3.7610313 298.96466 -3.7558594 299.04976 -3.7558594 299.13632 C -3.7558594 299.22292 -3.7610293 299.30794 -3.7695312 299.39218 C -3.7780312 299.47638 -3.7900446 299.56066 -3.8066406 299.64218 C -3.8232376 299.72368 -3.8429115 299.80209 -3.8671875 299.88046 C -3.8914635 299.95886 -3.9196299 300.03611 -3.9511719 300.11093 C -3.9827148 300.18573 -4.018244 300.25883 -4.0566406 300.32968 C -4.0950376 300.40058 -4.1368017 300.47024 -4.1816406 300.53671 C -4.2264796 300.60321 -4.2753036 300.66643 -4.3261719 300.72812 C -4.3770398 300.78982 -4.4298438 300.84936 -4.4863281 300.90585 C -4.5428121 300.96235 -4.6023745 301.01514 -4.6640625 301.06601 C -4.7257504 301.11691 -4.7889893 301.16571 -4.8554688 301.21054 C -4.9219477 301.25534 -4.991642 301.29714 -5.0625 301.33554 C -5.1333579 301.37394 -5.206426 301.40944 -5.28125 301.44101 C -5.3560739 301.47251 -5.4333412 301.50069 -5.5117188 301.52499 C -5.5900967 301.54929 -5.6684817 301.56894 -5.75 301.58554 C -5.8315179 301.60214 -5.9157534 301.61415 -6 301.62265 C -6.0842469 301.63165 -6.1692971 301.63632 -6.2558594 301.63632 L -12.259766 301.63632 C -12.257865 301.6409 -12.255817 301.64542 -12.253906 301.64999 L -17 301.64999 C -18.107999 301.64999 -19 302.54199 -19 303.64999 L -19 312.64999 C -19 313.75799 -18.107999 314.64999 -17 314.64999 C -15.892001 314.64999 -15 313.75799 -15 312.64999 L -15 305.64999 L -6 305.64999 L -6 305.63046 C -2.5185486 305.49697 0.24414062 302.65161 0.24414062 299.13632 C 0.24414062 295.53534 -2.6548666 292.63632 -6.2558594 292.63632 z " />
     </g>
   </g>
 </svg>

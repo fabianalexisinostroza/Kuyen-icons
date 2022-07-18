@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="48"
    height="48"
    viewBox="0 0 12.7 12.7"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="windows.svg">
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="windows.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <style
@@ -41,10 +41,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="8"
-     inkscape:cx="83.912258"
-     inkscape:cy="11.565674"
+     inkscape:cx="81.75"
+     inkscape:cy="11.6875"
      inkscape:document-units="px"
-     inkscape:current-layer="g37"
+     inkscape:current-layer="layer1-56"
      showgrid="false"
      units="px"
      inkscape:showpageshadow="false"
@@ -55,11 +55,13 @@
      inkscape:snap-bbox-midpoints="true"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:window-width="1870"
-     inkscape:window-height="1141"
-     inkscape:window-x="50"
-     inkscape:window-y="30"
-     inkscape:window-maximized="1">
+     inkscape:window-width="2160"
+     inkscape:window-height="1337"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid815" />
@@ -117,42 +119,10 @@
              id="layer1-3-5"
              transform="matrix(3.7795275,0,0,3.7795275,1.8700787e-7,-806.86961)" />
         </g>
-        <g
-           inkscape:label="Capa 1"
-           id="layer1-5">
-          <g
-             id="g37-2"
-             transform="translate(-8.4666685,-8.202075)">
-            <g
-               transform="translate(1.6666667e-7,-2.1666667e-5)"
-               id="g908">
-              <g
-                 transform="matrix(1.5294116,0,0,1.5294116,2.0699778,-142.23182)"
-                 id="layer1-54-9"
-                 inkscape:label="Capa 1">
-                <g
-                   inkscape:label="Capa 1"
-                   id="layer1-2-2-1"
-                   transform="matrix(1.3636363,0,0,1.3636363,-0.19242393,-107.80755)">
-                  <g
-                     id="g1838-8-2"
-                     transform="matrix(1.4666667,0,0,1.4666667,6.3500001,-135.63668)">
-                    <g
-                       transform="matrix(0.26458333,0,0,0.26458333,-4.2333332,211.63219)"
-                       inkscape:label="Capa 1"
-                       id="layer1-87-9-7" />
-                    <path
-                       style="fill:#f0f4f5;fill-opacity:1;stroke-width:3.0092845;enable-background:new"
-                       d="m 85.425781,12.330078 -12,1 v 10 h 12 z m -14,1 -10,1 v 9 h 10 z m -10,12 v 9 l 10,1 v -10 z m 12,0 v 10 l 12,1 v -11 z"
-                       transform="matrix(0.08649841,0,0,0.08649841,-6.5038982,288.47941)"
-                       id="path2699-7-0"
-                       inkscape:connector-curvature="0" />
-                  </g>
-                </g>
-              </g>
-            </g>
-          </g>
-        </g>
+        <path
+           id="rect364"
+           style="fill:#f0f4f5;fill-opacity:1;stroke-width:0.577274;stroke-linecap:round;stroke-linejoin:round"
+           d="m 2.910417,287.21041 v 3.175 h 3.175 v -3.175 z m 3.704166,0 v 3.175 h 3.1750001 v -3.175 z m -3.704166,3.70416 v 3.175 h 3.175 v -3.175 z m 3.704166,0 v 3.175 h 3.1750001 v -3.175 z" />
       </g>
     </g>
   </g>

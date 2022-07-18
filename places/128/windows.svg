@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="128"
    height="128"
    viewBox="0 0 33.866666 33.866666"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="windows.svg">
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="windows.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <style
@@ -47,9 +47,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.4"
-     inkscape:cx="47.813657"
-     inkscape:cy="107.92729"
+     inkscape:zoom="3.959798"
+     inkscape:cx="119.95561"
+     inkscape:cy="72.857252"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -62,11 +62,13 @@
      inkscape:snap-bbox-midpoints="true"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:window-width="1870"
-     inkscape:window-height="1141"
-     inkscape:window-x="50"
-     inkscape:window-y="30"
-     inkscape:window-maximized="1">
+     inkscape:window-width="2160"
+     inkscape:window-height="1337"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid815" />
@@ -108,33 +110,12 @@
              id="rect4500-3-1"
              d="m 5.5562502,262.33958 c 9.0879078,0 16.4041658,7.31626 16.4041658,16.40417 0,9.08791 -7.316258,16.40417 -16.4041658,16.40417 -9.0879082,0 -16.4041672,-7.31626 -16.4041672,-16.40417 0,-9.08791 7.316259,-16.40417 16.4041672,-16.40417 z"
              style="overflow:visible;opacity:1;fill:#5ba3fd;fill-opacity:1;stroke:none;stroke-width:0.04872227;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          <g
-             inkscape:label="Capa 1"
-             id="layer1-56"
-             transform="translate(-30.427083,-29.897909)">
-            <g
-               style="fill:#e7f0f6;fill-opacity:1"
-               transform="matrix(1.90625,0,0,1.9047619,-7.2843096,-246.48927)"
-               id="layer1-5-2"
-               inkscape:label="Capa 1" />
-            <g
-               inkscape:label="Capa 1"
-               id="layer1-562"
-               transform="translate(54.239584,27.516663)">
-              <g
-                 id="g2739-9"
-                 transform="translate(11.377083,1.322913)">
-                <path
-                   id="path921"
-                   transform="matrix(0.26458333,0,0,0.26458333,-46.566667,262.86875)"
-                   d="M 97,28 60,33 V 61 H 97 Z M 56,33 27,38 V 61 H 56 Z M 27,65 v 23 l 29,5 V 65 Z m 33,0 v 28 l 37,5 V 65 Z"
-                   style="fill:#f0f4f5;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-                   inkscape:connector-curvature="0" />
-              </g>
-            </g>
-          </g>
         </g>
       </g>
     </g>
+    <path
+       id="rect11376"
+       style="fill:#e8f5ff;stroke-width:0.584256;stroke-linecap:round;stroke-linejoin:round"
+       d="m 8.202083,271.33541 v 8.46667 h 8.466667 v -8.46667 z m 8.995833,0 v 8.46667 h 8.466667 v -8.46667 z m -8.995833,8.99583 v 8.46667 h 8.466667 v -8.46667 z m 8.995833,0 v 8.46667 h 8.466667 v -8.46667 z" />
   </g>
 </svg>
