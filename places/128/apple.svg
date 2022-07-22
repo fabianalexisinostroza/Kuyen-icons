@@ -2,23 +2,520 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="128"
    height="128"
    viewBox="0 0 33.866666 33.866666"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="apple.svg">
-  <defs
-     id="defs2" />
-  <sodipodi:namedview
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="apple.svg"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><defs
+     id="defs2"><style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-75"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-7"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-6">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-75-7"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-7-5"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-67"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-75-5">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-7-3">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-0"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-675">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-1">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-10"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-5"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-1-2"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-10-9">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-9">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-2-62">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-4">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-7-61">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-5-0">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-9-6"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-1-29"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-10-90">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-6-8"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-7-1"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-5-2"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-67-7">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-3"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-7-5-9"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-5-6"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-9-9">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-1-8">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-10-7"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-6-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-7-1-8">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-5-2-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-13">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-7-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-5-1">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-9-5"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-1-9"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-10-91">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-6-4"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-7-1-9"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-5-2-1"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-56">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-1-291">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-10-2"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-5-7"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-1-2-0"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-10-9-9">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-9-3">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-2-6">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-4-0">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-7-6">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-5-0-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-9-6-6"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-1-29-1"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-10-90-8">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-6-7"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-7-1-92"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-5-2-0"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-67-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-3-3"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-7-5-7"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-5-6-5"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-9-9-9">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-1-8-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-10-7-2"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-6-2-8">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-7-1-8-9">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-5-2-2-7">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-13-3">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-7-2-6">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-5-1-1">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-9-5-2"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-1-9-9"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-10-91-3">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-6-4-1"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-7-1-9-9"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-5-2-1-4"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style></defs><sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -26,8 +523,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
-     inkscape:cx="-1.218146"
-     inkscape:cy="64.307672"
+     inkscape:cx="-1.2946429"
+     inkscape:cy="64.330357"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -40,81 +537,59 @@
      inkscape:snap-bbox-midpoints="true"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:window-width="1870"
-     inkscape:window-height="1141"
-     inkscape:window-x="50"
-     inkscape:window-y="30"
-     inkscape:window-maximized="1">
-    <inkscape:grid
+     inkscape:window-width="2160"
+     inkscape:window-height="1335"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"><inkscape:grid
        type="xygrid"
-       id="grid815" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
+       id="grid815" /></sodipodi:namedview><metadata
+     id="metadata5"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><g
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-263.13333)">
-    <g
+     transform="translate(0,-263.13333)"><g
        id="g1468"
-       transform="translate(13.229166,1.322913)">
-      <path
+       transform="translate(13.229166,1.322913)"><path
          inkscape:connector-curvature="0"
          id="rect4500"
          d="m 3.7041669,262.075 c 9.2344871,0 16.6687491,7.43426 16.6687491,16.66875 0,9.23448 -7.434262,16.66875 -16.6687491,16.66875 -9.2344874,0 -16.6687499,-7.43427 -16.6687499,-16.66875 0,-9.23449 7.4342625,-16.66875 16.6687499,-16.66875 z"
-         style="opacity:1;fill:#9cbbcc;fill-opacity:1;stroke:none;stroke-width:0.04950811;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
+         style="opacity:1;fill:#9cbbcc;fill-opacity:1;stroke:none;stroke-width:0.04950811;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><path
          inkscape:connector-curvature="0"
          id="rect4500-3"
          d="m 3.7041669,262.33958 c 9.0879081,0 16.4041661,7.31626 16.4041661,16.40417 0,9.08791 -7.316258,16.40417 -16.4041661,16.40417 -9.0879082,0 -16.4041669,-7.31626 -16.4041669,-16.40417 0,-9.08791 7.3162587,-16.40417 16.4041669,-16.40417 z"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.04872227;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.04872227;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><path
          id="path5"
          d="m 6.8936359,269.00739 c -0.983209,0.0677 -2.133305,0.69585 -2.804997,1.51412 -0.609494,0.74336 -1.112634,1.84622 -0.91674,2.91714 1.07342,0.0335 2.183923,-0.61039 2.828768,-1.44126 0.601358,-0.77557 1.058749,-1.87035 0.892969,-2.99 z m 0.363802,4.31188 c -1.656735,0 -2.356923,0.78962 -3.506246,0.78962 -1.184506,0 -2.085138,-0.78858 -3.51813098,-0.78858 -1.40728102,0 -2.90378602,0.85865 -3.85247832,2.32544 -0.00587,0.009 -0.011517,0.0177 -0.017052,0.0269 l 13.7102734,0.001 c 0.210735,-0.17936 0.446607,-0.34254 0.707967,-0.48627 -0.9452911,-1.18357 -2.2725941,-1.86811 -3.5243331,-1.86811 z"
-         style="clip-rule:evenodd;overflow:visible;fill:#26c186;fill-opacity:1;fill-rule:evenodd;stroke:#008c52;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61310005;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-      <path
+         style="clip-rule:evenodd;overflow:visible;fill:#7fc484;fill-opacity:1;fill-rule:evenodd;stroke:#5e9c76;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61310005;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" /><path
          stroke-miterlimit="2.6131"
          d="m -3.6856402,275.65088 c -0.4085519,0.64275 -0.6912383,1.564 -0.7662556,2.37205 l 13.2543117,-3.5e-4 c 0.143308,-0.88403 0.619821,-1.72862 1.3750981,-2.37073 l -13.8631542,-9.7e-4 h 7.937e-4 z"
          id="path9"
-         style="clip-rule:evenodd;overflow:visible;fill:#ffc802;fill-opacity:1;fill-rule:evenodd;stroke:#ff9a0a;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61310005;stroke-dasharray:none;stroke-opacity:1"
+         style="clip-rule:evenodd;overflow:visible;fill:#f9b956;fill-opacity:1;fill-rule:evenodd;stroke:#cc8630;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61310005;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccc" />
-      <path
+         sodipodi:nodetypes="ccccccc" /><path
          stroke-miterlimit="2.6131"
          d="m -4.3315373,280.3739 c -0.1287958,-0.82531 -0.1496391,-1.62098 -0.068734,-2.35094 l 13.1510607,-3.4e-4 c -0.128629,0.79161 -0.02068,1.61541 0.304681,2.35177 z"
          id="path11"
          inkscape:connector-curvature="0"
-         style="clip-rule:evenodd;overflow:visible;fill:#ff8b60;fill-opacity:1;fill-rule:evenodd;stroke:#dd4d25;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61310005;stroke-dasharray:none;stroke-opacity:1" />
-      <path
+         style="clip-rule:evenodd;overflow:visible;fill:#ff8f64;fill-opacity:1;fill-rule:evenodd;stroke:#d16040;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61310005;stroke-dasharray:none;stroke-opacity:1" /><path
          stroke-miterlimit="2.6131"
          d="m -3.6888266,282.72467 c -0.3105502,-0.78981 -0.5231863,-1.58307 -0.6427107,-2.35077 l 13.3870082,5e-4 c 0.414434,0.9383 1.1814051,1.73544 2.2613601,2.14508 -0.03208,0.0716 -0.06303,0.14015 -0.09281,0.20619 z"
          id="path13"
          inkscape:connector-curvature="0"
-         style="clip-rule:evenodd;overflow:visible;fill:#f9304d;fill-opacity:1;fill-rule:evenodd;stroke:#bc0722;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61310005;stroke-dasharray:none;stroke-opacity:1" />
-      <path
+         style="clip-rule:evenodd;overflow:visible;fill:#f78f8f;fill-opacity:1;fill-rule:evenodd;stroke:#c74343;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61310005;stroke-dasharray:none;stroke-opacity:1" /><path
          stroke-miterlimit="2.6131"
          d="m 11.223987,282.72564 c -0.37078,0.81857 -0.585717,1.24341 -1.098832,2.02766 -0.06903,0.10533 -0.1403681,0.21306 -0.2146371,0.3218 l -12.356877,10e-4 c -0.03959,-0.0592 -0.07881,-0.11839 -0.117423,-0.17709 -0.4619905,-0.70659 -0.8360047,-1.43916 -1.1250445,-2.17452 z"
          id="path15"
          inkscape:connector-curvature="0"
-         style="clip-rule:evenodd;overflow:visible;fill:#af75b3;fill-opacity:1;fill-rule:evenodd;stroke:#8631a6;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61310005;stroke-dasharray:none;stroke-opacity:1" />
-      <path
+         style="clip-rule:evenodd;overflow:visible;fill:#a7b4ff;fill-opacity:1;fill-rule:evenodd;stroke:#6e7cd4;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61310005;stroke-dasharray:none;stroke-opacity:1" /><path
          stroke-miterlimit="2.6131"
          d="m 9.9105179,285.0751 c -0.755899,1.11194 -1.770723,2.33556 -3.002119,2.34718 -1.201581,0.011 -1.50983,-0.78521 -3.140018,-0.77624 -1.630189,0.009 -1.97052,0.79014 -3.17210198,0.77886 -1.284654,-0.0119 -2.28220302,-1.21365 -3.04263802,-2.34866 z"
          id="path19"
          inkscape:connector-curvature="0"
-         style="clip-rule:evenodd;overflow:visible;fill:#2aa9f6;fill-opacity:1;fill-rule:evenodd;stroke:#1a6cb2;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61310005;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-  </g>
-</svg>
+         style="clip-rule:evenodd;overflow:visible;fill:#50c1f9;fill-opacity:1;fill-rule:evenodd;stroke:#3182d9;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61310005;stroke-dasharray:none;stroke-opacity:1" /></g></g></svg>
