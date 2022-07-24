@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666664 8.4666666"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="preferences-git.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="28.963094"
+     inkscape:cx="17.315139"
+     inkscape:cy="15.588804"
+     inkscape:window-width="2160"
+     inkscape:window-height="1335"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid290"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2655"
+       transform="translate(2.6458332,1.0583334)">
+      <path
+         style="color:#000000;fill:#f37d5c;fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.8;paint-order:fill markers stroke"
+         d="M 1.4004314,-0.71612928 -2.3037353,2.9880373 a 0.26460979,0.26460979 0 0 0 0,0.3741367 l 3.7041667,3.7041667 a 0.26460979,0.26460979 0 0 0 0.3741372,0 L 5.4787352,3.362174 a 0.26460979,0.26460979 0 0 0 0,-0.3741367 L 1.7745686,-0.71612928 a 0.26460979,0.26460979 0 0 0 -0.3741372,0 z M 1.5875,-0.15492422 4.9175291,3.1751057 1.5875,6.5051356 -1.7425293,3.1751057 Z"
+         id="path1021" />
+      <path
+         style="color:#000000;fill:#ffb8a3;fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.8;paint-order:fill markers stroke"
+         d="M 1.5875,-0.52916676 -2.1166666,3.1749999 1.5875,6.8791665 5.2916666,3.1749999 Z"
+         id="path1019" />
+      <path
+         id="path1019-7"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.8;paint-order:fill markers stroke"
+         d="M 0.09870202,0.95963041 1.0655681,1.8520832 h -0.00723 V 4.4979165 H 1.5875 V 2.3342255 L 2.9956828,3.6338879 3.3543171,3.2452811 0.47283925,0.5854937 Z" />
+      <path
+         style="color:#000000;fill:#ffb8a3;fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.8;paint-order:fill markers stroke"
+         d="M 1.5875,-0.52916676 0.47283925,0.5854937 3.3543171,3.2452811 2.9956828,3.6338879 1.5875,2.3342255 v 2.163691 H 1.0583333 V 1.8520832 h 0.00723 L 0.09870202,0.95963041 -2.1166666,3.1749999 1.5875,6.8791665 5.2916666,3.1749999 Z"
+         id="path1984" />
+      <g
+         id="g190"
+         transform="matrix(0.26458333,0,0,0.26458333,-4.7624999,-3.7041667)">
+        <circle
+           r="3"
+           cy="21"
+           cx="23"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle163" />
+        <circle
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           cx="30"
+           cy="27"
+           r="3"
+           id="circle165" />
+        <circle
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           cx="23"
+           cy="31"
+           r="3"
+           id="circle167" />
+      </g>
+    </g>
+  </g>
+</svg>

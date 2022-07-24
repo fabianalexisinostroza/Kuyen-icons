@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="plasma.svg">
+  <title
+     id="title7895">Antu icon Theme</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.4"
+     inkscape:cx="5.5411859"
+     inkscape:cy="13.073235"
+     inkscape:document-units="px"
+     inkscape:current-layer="g1507"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1874"
+     inkscape:window-height="1141"
+     inkscape:window-x="46"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7897"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Antu icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-282.64999)">
+    <g
+       id="g1507"
+       transform="translate(11,-3)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#1d86d9;fill-opacity:1;stroke-width:1.00000012"
+         d="m -10,287.64999 c -0.55401,0 -1,0.446 -1,1 v 26 c 0,0.554 0.44599,1 1,1 h 30 c 0.554009,0 1,-0.446 1,-1 v -26 c 0,-0.554 -0.445992,-1 -1,-1 H 6 3 Z"
+         id="path12329" />
+      <path
+         style="fill:#44acff;fill-opacity:1;stroke-width:1.00000012"
+         d="m -10,288.64999 v 22 h 30 v -22 H 5 3 Z"
+         id="path13-5-2-9-4-2-6-6"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#d1ebff;fill-opacity:1;stroke:none;stroke-width:0.40000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -10,310.64999 v 4 h 30 v -4 z"
+         id="rect4537-2"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#d1ebff;fill-opacity:1"
+         d="M 12 7 C 11.446 7 11 7.446 11 8 C 11 8.554 11.446 9 12 9 C 12.554 9 13 8.554 13 8 C 13 7.446 12.554 7 12 7 z M 18 7 L 16 9 L 19 12 L 16 15 L 18 17 L 21 14 L 23 12 L 21 10 L 18 7 z M 10.5 12 C 9.669 12 9 12.669 9 13.5 C 9 14.331 9.669 15 10.5 15 C 11.331 15 12 14.331 12 13.5 C 12 12.669 11.331 12 10.5 12 z M 13.337891 17 C 12.229891 17 11.337891 17.892 11.337891 19 C 11.337891 20.108 12.229891 21 13.337891 21 C 14.445891 21 15.337891 20.108 15.337891 19 C 15.337891 17.892 14.445891 17 13.337891 17 z "
+         transform="translate(-11,285.64999)"
+         id="path4783-5-3" />
+    </g>
+  </g>
+</svg>
