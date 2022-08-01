@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="applications-all.svg"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><title
+     id="title7895">Antu icon Theme</title><defs
+     id="defs2"><style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-2"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-5"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-2-3"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><linearGradient
+       id="linearGradient2415"><stop
+         stop-color="#289bf7"
+         id="stop2411"
+         style="stop-color:#2090f2;stop-opacity:1" /><stop
+         offset="1"
+         stop-color="#71b9f1"
+         id="stop2413"
+         style="stop-color:#24b2ff;stop-opacity:1" /></linearGradient><linearGradient
+       id="1"><stop
+         id="stop4778"
+         stop-color="#289bf7" /><stop
+         id="stop4780"
+         stop-color="#71b9f1"
+         offset="1" /></linearGradient></defs><sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16"
+     inkscape:cx="30.15625"
+     inkscape:cy="25.46875"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="2160"
+     inkscape:window-height="1335"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-midpoints="false"
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"><inkscape:grid
+       type="xygrid"
+       id="grid7897"
+       empspacing="4" /></sodipodi:namedview><metadata
+     id="metadata5"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Antu icon Theme</dc:title></cc:Work></rdf:RDF></metadata><g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-266.64999)"><g
+       id="g5422"
+       transform="translate(-24,-4.000005)"><g
+         transform="matrix(5.5433071,0,0,5.5433071,24.533333,-1328.2455)"
+         id="layer1-3-2"
+         inkscape:label="Capa 1" /><path
+         style="opacity:1;fill:#2381cc;fill-opacity:1;stroke:none;stroke-width:3.88529491;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 29,272.64999 h 38 c 1.662,0 3,1.338 3,3 v 38 c 0,1.662 -1.338,3 -3,3 H 29 c -1.662,0 -3,-1.338 -3,-3 v -38 c 0,-1.662 1.338,-3 3,-3 z"
+         id="rect854"
+         inkscape:connector-curvature="0" /><path
+         style="opacity:1;fill:#6fb8f1;fill-opacity:1;stroke:none;stroke-width:3.70869064;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 29,273.64999 h 38 c 1.108,0 2,0.892 2,2 v 38 c 0,1.108 -0.892,2 -2,2 H 29 c -1.108,0 -2,-0.892 -2,-2 v -38 c 0,-1.108 0.892,-2 2,-2 z"
+         id="rect854-2"
+         inkscape:connector-curvature="0" /></g><g
+       transform="matrix(1.4666667,0,0,1.4666667,-0.46666729,-147.37001)"
+       id="layer1-6"
+       inkscape:label="Capa 1" /><g
+       transform="matrix(-1.4666667,0,0,1.4666667,49.466667,-147.37001)"
+       id="layer1-6-2"
+       inkscape:label="Capa 1" /><g
+       transform="matrix(1.4666667,0,0,-1.4666667,-0.46666729,729.66999)"
+       id="layer1-6-27"
+       inkscape:label="Capa 1" /><g
+       transform="matrix(-1.4666667,0,0,-1.4666667,49.466667,729.66999)"
+       id="layer1-6-2-3"
+       inkscape:label="Capa 1" /><path
+       id="rect25676"
+       style="opacity:1;fill:#e3f1fc;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.8;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
+       d="M 11 276.64999 C 10.446004 276.64999 10 277.09599 10 277.64999 L 10 287.64999 C 10 288.20399 10.446004 288.64999 11 288.64999 L 21 288.64999 C 21.553996 288.64999 22 288.20399 22 287.64999 L 22 277.64999 C 22 277.09599 21.553996 276.64999 21 276.64999 L 11 276.64999 z M 27 276.64999 C 26.446003 276.64999 26 277.09599 26 277.64999 L 26 287.64999 C 26 288.20399 26.446003 288.64999 27 288.64999 L 37 288.64999 C 37.553997 288.64999 38 288.20399 38 287.64999 L 38 277.64999 C 38 277.09599 37.553997 276.64999 37 276.64999 L 27 276.64999 z M 13 279.64999 L 19 279.64999 L 19 285.64999 L 13 285.64999 L 13 279.64999 z M 11 292.64999 C 10.446003 292.64999 10 293.09599 10 293.64999 L 10 303.64999 C 10 304.20399 10.446003 304.64999 11 304.64999 L 21 304.64999 C 21.553997 304.64999 22 304.20399 22 303.64999 L 22 293.64999 C 22 293.09599 21.553997 292.64999 21 292.64999 L 11 292.64999 z M 27 292.64999 C 26.446004 292.64999 26 293.09599 26 293.64999 L 26 303.64999 C 26 304.20399 26.446004 304.64999 27 304.64999 L 37 304.64999 C 37.553996 304.64999 38 304.20399 38 303.64999 L 38 293.64999 C 38 293.09599 37.553996 292.64999 37 292.64999 L 27 292.64999 z M 29 295.64999 L 35 295.64999 L 35 301.64999 L 29 301.64999 L 29 295.64999 z " /></g></svg>

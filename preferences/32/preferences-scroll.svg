@@ -8,7 +8,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
-   sodipodi:docname="preferences-system-windows-move.svg"
+   sodipodi:docname="preferences-scroll.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -78,8 +78,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="32"
-     inkscape:cx="26.984375"
-     inkscape:cy="18.203125"
+     inkscape:cx="27.046875"
+     inkscape:cy="18.234375"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -151,7 +151,7 @@
        inkscape:connector-curvature="0" />
     <g
        id="g871"
-       transform="matrix(2.15973,0,0,2.15973,15.348859,291.13628)">
+       transform="matrix(2.15973,0,0,2.15973,21.348859,291.13628)">
       <rect
          style="fill:#36404d;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.8;paint-order:fill markers stroke;stop-color:#000000"
          id="rect360"
@@ -172,7 +172,7 @@
     <g
        id="path1556"
        style="stroke:#3182d9;stroke-width:2"
-       transform="translate(-2)">
+       transform="translate(4)">
       <g
          id="path1751">
         <path
@@ -189,7 +189,7 @@
     <g
        id="path1556-6"
        style="stroke:#3182d9;stroke-width:2"
-       transform="matrix(1,0,0,-1,-2,603.29998)">
+       transform="matrix(1,0,0,-1,4,603.29998)">
       <g
          id="path1751-7">
         <path
@@ -203,17 +203,5 @@
            id="path1757-3" />
       </g>
     </g>
-    <path
-       id="rect1866"
-       style="fill:#3079cf;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.8;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:0.98039216"
-       d="m 27,292.64999 c 1.108,0 2,0.892 2,2 v 14 c 0,1.108 -0.892,2 -2,2 -1.108,0 -2,-0.892 -2,-2 v -14 c 0,-1.108 0.892,-2 2,-2 z" />
-    <rect
-       style="fill:#6bb1ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.8;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
-       id="rect1871"
-       width="2"
-       height="16"
-       x="26"
-       y="293.64999"
-       ry="1" />
   </g>
 </svg>
