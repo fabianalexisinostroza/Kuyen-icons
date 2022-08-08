@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    xml:space="preserve"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="folder-green.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="4.7572176"
-     inkscape:cx="115.08828"
-     inkscape:cy="40.46483"
+     inkscape:zoom="7.859197"
+     inkscape:cx="82.642031"
+     inkscape:cy="62.665435"
      inkscape:window-width="2160"
      inkscape:window-height="1335"
      inkscape:window-x="0"
@@ -39,7 +39,7 @@
      id="defs2"><linearGradient
        inkscape:collect="always"
        id="linearGradient5801"><stop
-         style="stop-color:#aad8ad;stop-opacity:1;"
+         style="stop-color:#94ce98;stop-opacity:1;"
          offset="0"
          id="stop5797" /><stop
          style="stop-color:#73bf79;stop-opacity:1;"
@@ -52,175 +52,7 @@
        y1="361.64999"
        x2="19.333334"
        y2="346.98334"
-       gradientUnits="userSpaceOnUse" /><style
-       id="current-color-scheme"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-7"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-5"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-9">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-1">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-10"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-6">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-7-1">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-5-2">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-12">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-7-7">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-5-0">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-9-9"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-1-3"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-10-6">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-6-0"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-7-1-6"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-5-2-2"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-3">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-7-75">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-5-9">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-9-2"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-1-2"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-10-8">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-6-9"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-7-1-7"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-5-2-3"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-67">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style></defs><g
+       gradientUnits="userSpaceOnUse" /></defs><g
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"><g
@@ -244,6 +76,16 @@
            id="rect1590"
            style="fill:#bae0bd;fill-opacity:1;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.8;paint-order:fill markers stroke;stop-color:#000000"
            d="m 11.333333,362.31668 16,-1e-5 c 6,0 8,-8 12.666667,-8 l 24.666668,1e-5 c 2.585333,0 4.666666,2.08133 4.666666,4.66667 v 41.33332 c 0,2.58533 -2.081333,4.66666 -4.666666,4.66666 H 11.333333 c -2.5853333,0 -4.6666669,-2.08133 -4.6666669,-4.66666 v -33.33332 c 0,-2.58534 2.0813336,-4.66667 4.6666669,-4.66667 z"
-           sodipodi:nodetypes="sccssssssss" /></g><g
+           sodipodi:nodetypes="sccssssssss" /><g
+           id="path640" /><g
+           id="g5223"
+           transform="matrix(0.66666667,0,0,0.66666667,93.999994,248.88335)"><g
+             transform="matrix(2,0,0,2,-35.999997,-520.64999)"
+             id="g1658" /></g><g
+           id="g5223-3"
+           transform="matrix(0.66666667,0,0,0.66666667,93.999994,250.21669)"><g
+             transform="matrix(2,0,0,2,-35.999997,-520.64999)"
+             id="g1658-5" /></g><g
+           id="path1608" /></g><g
          transform="translate(-6,-93.00001)"
          id="g1529" /></g></g></svg>

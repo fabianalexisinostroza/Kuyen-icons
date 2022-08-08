@@ -7,7 +7,7 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="svg8"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="alt-music.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,6 +21,18 @@
      id="title7895">Antu icon Theme</title>
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1247">
+      <stop
+         style="stop-color:#c06fda;stop-opacity:1;"
+         offset="0"
+         id="stop1243" />
+      <stop
+         style="stop-color:#a344c4;stop-opacity:1;"
+         offset="1"
+         id="stop1245" />
+    </linearGradient>
     <linearGradient
        gradientTransform="translate(-10,24)"
        inkscape:collect="always"
@@ -97,6 +109,15 @@
          offset="1"
          id="stop118475" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1247"
+       id="linearGradient1249"
+       x1="1"
+       y1="289.64999"
+       x2="1"
+       y2="245.64999"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -105,15 +126,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="103.54064"
-     inkscape:cy="56.189735"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="68.627239"
+     inkscape:cy="70.900082"
      inkscape:document-units="px"
      inkscape:current-layer="g8039"
-     showgrid="false"
+     showgrid="true"
      units="px"
      inkscape:window-width="2160"
-     inkscape:window-height="1337"
+     inkscape:window-height="1335"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -182,9 +203,9 @@
       <path
          sodipodi:nodetypes="cccssssccccccccccccssssccccccsssscccccc"
          inkscape:connector-curvature="0"
-         id="path4658-1"
-         d="m 2.999999,239.64995 -5.999999,2 v 8.60156 c -0.750003,-0.38211 -1.597449,-0.60156 -2.5,-0.60156 -3.046999,0 -5.5,2.45294 -5.5,5.5 0,3.04694 2.453001,5.5 5.5,5.5 3.047001,0 5.5,-2.45302 5.5,-5.5 0,-0.0711 -0.0071,-0.14063 -0.0098,-0.21094 L 0,254.95071 v -7.30078 -2 l 2.999999,-1 z m 19,2 -14,5 v 4 6 11 l 0.03711,0.0684 C 6.009988,266.41415 3.599624,265.64999 1,265.64999 c -7.201994,0 -13,5.798 -13,13 0,7.202 5.798006,13 13,13 7.202,0 13,-5.798 13,-13 v -23 l 8,-3 z m 10.009766,14.71094 -6,2 v 8.60156 c -0.750002,-0.3821 -1.597449,-0.60155 -2.5,-0.60155 -3.046999,0 -5.5,2.45293 -5.5,5.5 0,3.04693 2.453001,5.5 5.5,5.5 3.047002,0 5.5,-2.45303 5.5,-5.5 0,-0.0711 -0.0071,-0.14065 -0.0098,-0.21095 l 0.0098,0.0117 v -7.30077 -2 l 3,-1 z"
-         style="fill:#ffffff;fill-opacity:0.76521736;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         id="path4658-1-9"
+         d="m -0.9999985,243.64991 -6.0000005,2.00005 v 8.60153 c -0.7500019,-0.38207 -1.5974475,-0.60151 -2.4999987,-0.60151 -3.0469983,0 -5.4999993,2.45291 -5.4999993,5.49997 0,3.04694 2.453001,5.5 5.4999993,5.5 3.0470022,0 5.4999951,-2.45303 5.4999951,-5.5 0,-0.0711 -0.00718,-0.1406 -0.00983,-0.2109 l 0.00983,0.0113 v -7.3008 -1.99998 l 3.0000041,-0.99998 z M 22,243.64999 8.0000035,248.65 v 3.99999 6 10.99997 l 0.03704,0.0684 c -2.027116,-1.30424 -4.437479,-2.06838 -7.037102,-2.06838 -7.2019961,0 -13.0000035,5.79798 -13.0000035,12.99999 0,7.202 5.7980074,13.00002 13.0000035,13.00002 7.201995,0 12.9999975,-5.79802 12.9999975,-13.00002 v -22.99998 l 8.000002,-3 z m 13,14.99996 -6.000004,2.00001 v 8.60153 c -0.750002,-0.38211 -1.597451,-0.60155 -2.500002,-0.60155 -3.046998,0 -5.499998,2.45295 -5.499998,5.50001 0,3.04694 2.453,5.5 5.499998,5.5 3.047003,0 5.500002,-2.45303 5.500002,-5.5 0,-0.0711 -0.0072,-0.1406 -0.0098,-0.2109 l 0.0098,0.0113 v -7.30077 -2.00001 L 35,263.64958 Z"
+         style="fill:url(#linearGradient1249);fill-opacity:1;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
   </g>
 </svg>

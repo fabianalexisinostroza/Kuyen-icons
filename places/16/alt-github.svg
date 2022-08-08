@@ -14,18 +14,10 @@
    viewBox="0 0 4.2333332 4.2333335"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="folder-github.svg">
   <defs
-     id="defs2">
-    <style
-       type="text/css"
-       id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-  </defs>
+     id="defs2" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -34,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.678384"
-     inkscape:cx="-4.0975201"
+     inkscape:cx="1.7582079"
      inkscape:cy="7.730104"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -48,10 +40,10 @@
      inkscape:snap-bbox-midpoints="true"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1049"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1874"
+     inkscape:window-height="1141"
+     inkscape:window-x="46"
+     inkscape:window-y="30"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -65,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -80,12 +72,12 @@
       <path
          id="rect832"
          d="m -1.0686686,292.50208 a 0.26460979,0.26460979 0 0 0 -0.2490804,0.21291 l -0.1390096,0.69556 c -0.2438699,0.23972 -0.3953247,0.57306 -0.3953247,0.94362 0,0.73289 0.5900208,1.32291 1.32291666,1.32291 h 1.0583333 c 0.73289584,0 1.32291674,-0.59002 1.32291674,-1.32291 0,-0.37056 -0.1514549,-0.7039 -0.3953248,-0.94362 l -0.1390095,-0.69556 a 0.26460979,0.26460979 0 0 0 -0.2666505,-0.21291 0.26460979,0.26460979 0 0 0 -0.15502924,0.0558 l -0.6097819,0.47336 h -0.5725749 l -0.60978191,-0.47336 a 0.26460979,0.26460979 0 0 0 -0.17259925,-0.0558 z"
-         style="opacity:1;fill:#35454d;fill-opacity:1;stroke:none;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         style="opacity:1;fill:#6e7cd4;fill-opacity:1;stroke:none;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          inkscape:connector-curvature="0" />
       <path
          id="rect837"
          d="m -1.0583333,292.76667 -0.1576132,0.78703 c -0.2259147,0.1938 -0.3715535,0.47811 -0.3715535,0.80047 0,0.58631 0.4720167,1.05833 1.05833336,1.05833 h 1.0583333 c 0.58631674,0 1.05833334,-0.47202 1.05833334,-1.05833 0,-0.32236 -0.1456388,-0.60667 -0.3715535,-0.80047 l -0.1576131,-0.78703 -0.68161224,0.52916 h -0.7534423 z"
-         style="opacity:1;fill:#607c8a;fill-opacity:1;stroke:none;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         style="opacity:1;fill:#a7b4ff;fill-opacity:1;stroke:none;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          inkscape:connector-curvature="0" />
     </g>
   </g>

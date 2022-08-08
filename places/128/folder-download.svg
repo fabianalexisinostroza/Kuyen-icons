@@ -49,8 +49,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6"
-     inkscape:cx="22.857143"
-     inkscape:cy="47.232143"
+     inkscape:cx="22.946429"
+     inkscape:cy="47.410714"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -64,7 +64,7 @@
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
      inkscape:window-width="2160"
-     inkscape:window-height="1337"
+     inkscape:window-height="1335"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -120,7 +120,7 @@
     </g>
     <path
        id="rect4505-0"
-       d="m 16.933333,277.68542 c -3.5179,0 -6.35,2.8321 -6.35,6.35 0,3.51789 2.8321,6.35 6.35,6.35 3.5179,0 6.35,-2.83211 6.35,-6.35 0,-3.5179 -2.8321,-6.35 -6.35,-6.35 z m 0,3.43958 c 0.439717,0 0.79375,0.35402 0.79375,0.79375 v 2.64583 H 19.05 c 0.143529,-3e-5 0.260925,0.11438 0.264583,0.25787 0.0016,0.0624 -0.0189,0.12334 -0.05788,0.17208 l -2.116667,2.64583 c -0.105926,0.13254 -0.307485,0.13254 -0.413411,0 l -2.116667,-2.64583 c -0.138676,-0.17329 -0.01524,-0.43004 0.206706,-0.42995 h 1.322919 v -2.64583 c 0,-0.43973 0.354034,-0.79375 0.79375,-0.79375 z"
+       d="m 16.933333,277.95 c -3.5179,0 -6.35,2.8321 -6.35,6.35 0,3.51789 2.8321,6.35 6.35,6.35 3.5179,0 6.35,-2.83211 6.35,-6.35 0,-3.5179 -2.8321,-6.35 -6.35,-6.35 z m 0,3.43958 c 0.439717,0 0.79375,0.35402 0.79375,0.79375 v 2.64583 H 19.05 c 0.143529,-3e-5 0.260925,0.11438 0.264583,0.25787 0.0016,0.0624 -0.0189,0.12334 -0.05788,0.17208 l -2.116667,2.64583 c -0.105926,0.13254 -0.307485,0.13254 -0.413411,0 l -2.116667,-2.64583 c -0.138676,-0.17329 -0.01524,-0.43004 0.206706,-0.42995 h 1.322919 v -2.64583 c 0,-0.43973 0.354034,-0.79375 0.79375,-0.79375 z"
        style="fill:#dcf2ff;fill-opacity:1;stroke:none;stroke-width:0.489913;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ssssssscccccccccss" />

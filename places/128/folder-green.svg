@@ -7,7 +7,7 @@
    viewBox="0 0 33.866666 33.866666"
    version="1.1"
    id="svg8"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="folder-green.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,7 +25,7 @@
        id="linearGradient74894"
        gradientUnits="userSpaceOnUse"
        x1="5.2916684"
-       y1="10.064829"
+       y1="7.9374971"
        x2="5.2916684"
        y2="-2.6574166e-06"
        gradientTransform="matrix(3.7795276,0,0,3.7795276,34,204.64999)" />
@@ -33,7 +33,7 @@
        inkscape:collect="always"
        id="linearGradient84705">
       <stop
-         style="stop-color:#cae7cc;stop-opacity:1;"
+         style="stop-color:#99d09d;stop-opacity:1;"
          offset="0"
          id="stop84701" />
       <stop
@@ -50,7 +50,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6"
-     inkscape:cx="22.857143"
+     inkscape:cx="23.125"
      inkscape:cy="47.410714"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -65,7 +65,7 @@
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
      inkscape:window-width="2160"
-     inkscape:window-height="1337"
+     inkscape:window-height="1335"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
